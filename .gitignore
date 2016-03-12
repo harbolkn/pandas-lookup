@@ -1,0 +1,13 @@
+# compiled code
+*.py[co]
+
+# OS X
+.DS_Store
+
+# distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# sphinx docs
+docs/build/*
